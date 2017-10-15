@@ -1,0 +1,50 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{017639B6-12B7-4AAC-9BAC-C4D402BE4270}#1.0#0#C:\WINDOWS\system32\VB61sys.dll#VB外挂插件-VB梦工厂出品
+Object={F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.2#0; COMDLG32.OCX
+Form=Form2.frm
+Form=Form3.frm
+Form=Form1.frm
+Module=Module1; Module1.bas
+IconForm="Form1"
+Startup="Form1"
+HelpFile=""
+Title="数字汉字双向工程之转变"
+ExeName32="加解密.exe"
+Command32=""
+Name="工程1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=3
+MinorVer=3
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="兵马俑侠"
+VersionLegalCopyright="版权归兵马俑侠所有，复制必究"
+VersionProductName="数字汉字双向工程之转变"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=-1
+FDIVCheck=-1
+UnroundedFP=-1
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[iCode_Windows]
+LastBuildFile=Z:\VB\数字汉字双向工程之转变（重制）\加解密.exe
+LastComponentFile=Z:\Documents and Settings\Z\桌面\数字汉字双向工程之转变（重制）\加解密.exe
+
+[iCode_Linker]
+Setting=0,,1,1,0,
